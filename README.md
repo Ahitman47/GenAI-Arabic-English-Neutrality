@@ -57,7 +57,7 @@ pip install -r requirements.txt
 The `data/` directory contains the data used for this research. The notebooks expect:
 
 - **Survey export** (semicolon-delimited CSV)  
-  e.g. `data/Survey Results.csv`
+  Can be downloaded from https://data.4tu.nl/datasets/e058cc9d-7ca8-408f-9233-79ea0bd3953f
 
 - **AWS Comprehend outputs** (Excel or CSV)  
   e.g. `data/sentiment_analysis_full_results raw.xlsx`
